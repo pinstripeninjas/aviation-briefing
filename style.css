@@ -38,3 +38,16 @@ body {
 #footer img {
 	width: 30px;
 }
+
+#location-selection {
+	padding-top: 75px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#left-content {
+}
+
+#right-content {
+}
