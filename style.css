@@ -1,0 +1,40 @@
+body {
+	font-family: "Open Sans", sans-serif;
+}
+
+.nav-link:hover {
+	background: #07316b;
+	color: #fff;
+}
+
+.bg-NWS {
+	background-color: #0a4595;
+}
+
+.green {
+	background-color: rgba(116, 219, 75, 0.5);
+}
+
+.yellow {
+	background-color: rgba(255, 235, 88, 0.5);
+}
+
+.red {
+	background-color: rgba(255, 50, 0, 0.5);
+}
+
+#page-container {
+	position: relative;
+	min-height: 100vh;
+}
+
+#footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	font-size: 20px;
+}
+
+#footer img {
+	width: 30px;
+}
